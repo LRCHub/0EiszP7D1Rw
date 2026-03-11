@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ねぇよな",
+  "base_artist": "meiyo",
+  "createdAt": "2026-03-11T23:59:32.155444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ねぇよな",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/01_ねぇよな_meiyo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ねぇよな",
+      "artist": "meiyo",
+      "has_synced": true,
+      "path": "select/02_ねぇよな_meiyo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ねぇよな",
+      "artist": "meiyo",
+      "has_synced": false,
+      "path": "select/pl_01_ねぇよな_meiyo.txt"
+    }
+  ]
+}
